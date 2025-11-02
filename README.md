@@ -30,6 +30,8 @@ cd Tier-Test-Bot
 2. **Install dependencies**
 ```bash
 npm install
+npm install discord.js
+npm install dotenv
 ```
 
 3. **Configure environment variables**
